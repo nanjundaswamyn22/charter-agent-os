@@ -1,0 +1,13 @@
+com\example\rewards\RewardsApplication.class
+com\example\rewards\controller\RewardController.class
+com\example\rewards\entity\Customer.class
+com\example\rewards\entity\Transaction.class
+com\example\rewards\dto\ErrorResponse.class
+com\example\rewards\repository\TransactionRepository.class
+com\example\rewards\dto\MonthlyReward.class
+com\example\rewards\service\RewardService.class
+com\example\rewards\repository\CustomerRepository.class
+com\example\rewards\dto\CustomerRewardResponse.class
+com\example\rewards\exception\CustomerNotFoundException.class
+com\example\rewards\service\RewardCalculationService.class
+com\example\rewards\exception\GlobalExceptionHandler.class
